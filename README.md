@@ -8,17 +8,15 @@ This Github will let you see online versions and go through code of my Portfolio
 - https://adamwojda.github.io/mobile-ninjas
 - https://adamwojda.github.io/runo-front-html
 
-<!--
-**AdamWojda/AdamWojda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1️⃣. Here you can see how I approach to convert previously created front-end into CMS like WordPress or maybe HubSpot.
 
-Here are some ideas to get you started:
+- TBD
+- TBD
+- TBD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+2️⃣. On below links you can find more new liblaries and methods of work with frameworks like React, Vue or Angular.
+
+- https://github.com/AdamWojda/React-Listing-App
+- https://github.com/AdamWojda/react-native-app
+- https://adamwojda.github.io/vue-project-0
+
