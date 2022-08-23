@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there👋, nice to see you here 😊
+
+This Github will let you see online versions and go through code of my Portfolio projects, you can find here few things
+0️⃣. These pages will show you how I approach to solve common front-end problems and how I structure my HTML. You are also free to take a Lighthouse test on each, it will lit green fs.
+
+◽ https://adamwojda.github.io/35_web_dev_chalenge
+◽ https://adamwojda.github.io/mobile-ninjas
+◽ https://adamwojda.github.io/runo-front-html
 
 <!--
 **AdamWojda/AdamWojda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
