@@ -12,14 +12,6 @@ This Github will let you see online versions and go through code of my Portfolio
 
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 
-1️⃣. Here you can see how I approach to convert previously created front-end into CMS like WordPress or maybe HubSpot.
-
-- TBD
-- TBD
-- TBD
-
-⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-
 2️⃣. On below links you can find more new liblaries and methods of work with frameworks like React (Hooks), Vue (Composition API) or Angular.
 
 - https://github.com/AdamWojda/React-Listing-App
